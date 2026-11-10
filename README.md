@@ -4,7 +4,7 @@
 Designed and deployed a WordPress application on AWS using a LAMP stack, Application Load Balancer, Auto Scaling Group, and Amazon RDS. Implemented an RDS Blue/Green deployment to upgrade the MySQL database engine.
 
 ## Architecture
-**Request flow:**
+[View Architecture Diagram](architecture/architecture-diagram.md)
 
 Users → Application Load Balancer → Target Group → EC2 WordPress Instances → Amazon RDS MySQL
 
